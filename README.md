@@ -127,4 +127,10 @@ blind check's score doesn't match human judgement (its notes are useful, its num
 
 The input pack is Kuku's confidential content, so this repository holds **code only**: `data/`,
 the zips and `outputs/` are git-ignored. The outputs quote lines of the scripts, so they're shared
-separately through a link.
+separately: **[Google Drive](https://drive.google.com/drive/folders/121C8M7x-gaq2_NIWC1XlozhlUh6yNGA2?usp=sharing)**.
+In it:
+
+- `openai-gpt-5-mini/`: the submitted run (`report.md`, `promos.json`, `raw/` = unedited model responses)
+- `offline-heuristic/`: the free keyword baseline, for comparison
+- `human_review/`: my verdicts on the top 15
+- `blind_check_history/`: the v1 and v2 blind-check runs from the solution doc
