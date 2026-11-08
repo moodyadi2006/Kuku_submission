@@ -1,0 +1,23 @@
+# Confidential input pack: Kuku asked that it not be published
+data/
+*.zip
+
+# Secrets
+.env
+
+# Model response cache
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+
+# Not part of the code: the assignment brief, editor settings, and run outputs
+# (outputs quote the confidential scripts; they're shared separately via a Drive link)
+Kuku*Assignment*.pdf
+.vscode/
+outputs/
+submission/
